@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/09 13:50:04.000.133,=D:\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/09 13:50:04.000.437,=D:\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/09 13:51:32.000.958,D:\Embarcadero\Studio\Projects\Unit1.cpp=D:\Embarcadero\Studio\Projects\IMF_HW3.cpp</Transaction>
+    <Transaction>2019/10/09 13:51:32.000.958,D:\Embarcadero\Studio\Projects\Unit1.h=D:\Embarcadero\Studio\Projects\IMF_HW3.h</Transaction>
+    <Transaction>2019/10/09 13:51:32.000.958,D:\Embarcadero\Studio\Projects\Unit1.dfm=D:\Embarcadero\Studio\Projects\IMF_HW3.dfm</Transaction>
+    <Transaction>2019/10/09 13:51:55.000.377,D:\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Embarcadero\Studio\Projects\HW3.h</Transaction>
+    <Transaction>2019/10/09 13:52:42.000.281,D:\Embarcadero\Studio\Projects\Project1.cbproj=D:\Embarcadero\Studio\Projects\Magic_Square.cbproj</Transaction>
+    <Transaction>2019/10/09 14:12:00.000.386,=D:\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019/10/09 14:31:19.000.162,D:\Embarcadero\Studio\Projects\Unit2.h=D:\Embarcadero\Studio\Projects\Advanced_MS.h</Transaction>
+    <Transaction>2019/10/09 14:31:19.000.162,D:\Embarcadero\Studio\Projects\Unit2.dfm=D:\Embarcadero\Studio\Projects\Advanced_MS.dfm</Transaction>
+    <Transaction>2019/10/09 14:31:19.000.162,D:\Embarcadero\Studio\Projects\Unit2.cpp=D:\Embarcadero\Studio\Projects\Advanced_MS.cpp</Transaction>
+    <Transaction>2019/10/15 00:08:05.000.225,C:\Users\User\Desktop\新增資料夾\Advanced_MS.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
