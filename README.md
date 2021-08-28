@@ -6,6 +6,8 @@ Instructor：徐熊健(MCU)
 
 Time: 2019 Fall Semester
 
+Using IDE : C++Builder - Embarcadero
+
 #### [HW1 Selection VS Bubble Sort](https://github.com/laynotena/Data-structure/tree/main/HW1)
 #### [HW2 Permutation & Towers of Hanoi](https://github.com/laynotena/Data-structure/tree/main/HW2)
 #### [HW3 Magic Square](https://github.com/laynotena/Data-structure/tree/main/HW3)
